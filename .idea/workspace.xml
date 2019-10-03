@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91b1cf6d-4778-43aa-a111-22974f8ff113" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/GuessStarter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,9 +45,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SecondsToHours">
+  <component name="RunManager" selected="Application.GuessStarter">
     <configuration name="CelsiusToFahrenheit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CelsiusToFahrenheit" />
+      <module name="chapter3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuessStarter" />
       <module name="chapter3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GuessStarter" />
         <item itemvalue="Application.SecondsToHours" />
         <item itemvalue="Application.CelsiusToFahrenheit" />
       </list>
